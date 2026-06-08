@@ -1,0 +1,5 @@
+rogelio 99
+lizzie 101
+jade 40
+chris 1
+luis 60

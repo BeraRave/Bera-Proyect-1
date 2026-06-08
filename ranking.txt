@@ -1,0 +1,5 @@
+Posición: 1 | Nombre: lizzie | Puntuación: 101
+Posición: 2 | Nombre: rogelio | Puntuación: 99
+Posición: 3 | Nombre: luis | Puntuación: 60
+Posición: 4 | Nombre: jade | Puntuación: 40
+Posición: 5 | Nombre: chris | Puntuación: 1

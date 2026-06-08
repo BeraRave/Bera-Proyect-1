@@ -1,0 +1,16 @@
+1.  hacer estructura(struct) con los siguientes datos:
+        -nombre del participante
+        -puntuacion 
+        -ranking(puesto del participante)
+
+2.  hacer un vector con la estructura de los participantes
+    y organizarlas por puntuacion(en caso de empate por nombre)
+
+3.  hacer una entrada de datos de la estructura que actualize
+    los datos temporales y despues de cada entrada muestre los
+    datos actualizados
+
+4.  crear funcion para crear un archivo donde se guarde estos 
+    datos de forma permanente y segura
+
+5.
